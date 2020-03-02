@@ -21,7 +21,7 @@ By using this tool,you can play a large number animation at the same time on scr
 You can download this asset from Unity Asset Store:
 
 [GPU Animation Baker Pro](https://assetstore.unity.com/packages/tools/animation/gpu-animation-baker-153503)
-Or
+or
 [GPU Animation Baker Pro](https://assetstore.unity.com/packages/tools/animation/gpu-animation-baker-pro-136591)
 
 
